@@ -1,8 +1,11 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 Name: JASHWANA FATHIMA S
+
 Register Number: 212222040059
+
 Dept: CSE
+
 Date: 28/04/24
 
 ### Aim :
