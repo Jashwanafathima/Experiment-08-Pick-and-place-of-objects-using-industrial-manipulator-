@@ -6,7 +6,7 @@ Register Number: 212222040059
 
 Dept: CSE
 
-Date: 28/04/24
+Date: 22/04/24
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
